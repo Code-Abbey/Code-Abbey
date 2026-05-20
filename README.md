@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abiodun (Abby) 👋</h1>
+<h1 align="center">Hi, I'm Abiodun (Abbey) 👋</h1>
 
 <p align="center">
   <b>Software Developer &nbsp;·&nbsp; Android &nbsp;·&nbsp; Web &nbsp;·&nbsp; Machine Learning</b><br/>
@@ -71,7 +71,7 @@ I build practical, user-focused software across mobile, web, and data science. C
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Code-Abbey&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Code-Abbey&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
