@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Abiodun (Abbey) 👋</h1>
+<h1 align="center">Hi, I'm Abiodun (Abby) 👋</h1>
 
 <p align="center">
   <b>Software Developer &nbsp;·&nbsp; Android &nbsp;·&nbsp; Web &nbsp;·&nbsp; Machine Learning</b><br/>
