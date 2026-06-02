@@ -58,7 +58,9 @@ I build practical, user-focused software across mobile, web, and data science. C
 | [Portfolio](https://code-abbey.github.io/my-portfolio/) | Personal portfolio with animated UI | React · Vite · Framer Motion |
 | [CCL1 Delivery Game](https://code-abbey.github.io/CCL1/) | Interactive browser game with dialogue and animation | JS · HTML · CSS |
 | [Minesweeper](https://github.com/Code-Abbey/Minesweeper) | Browser Minesweeper with dynamic difficulty | JS · HTML · CSS |
-| [House Price Prediction](https://github.com/Code-Abbey/House-Price-Prediction) | Regression ML model — my first machine learning project | Python · scikit-learn |
+| [Image Classification with Deep Learning](https://github.com/Code-Abbey/image-classification-deep-learning-lab) | Binary car image classification with MLP, CNN, data augmentation, dropout, and batch normalization | Python · TensorFlow · Keras |
+| [Association Rules](https://github.com/Code-Abbey/Association-Rules) | Market basket analysis using Apriori association-rule mining | Python · Jupyter · Apriori |
+| [Decision Tree](https://github.com/Code-Abbey/Decision_Tree) | Decision tree classifier experiments from scratch and with scikit-learn | Python · scikit-learn · Jupyter |
 
 ---
 
