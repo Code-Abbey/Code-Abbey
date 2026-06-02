@@ -60,7 +60,6 @@ I build practical, user-focused software across mobile, web, and data science. C
 | [Minesweeper](https://github.com/Code-Abbey/Minesweeper) | Browser Minesweeper with dynamic difficulty | JS · HTML · CSS |
 | [Image Classification with Deep Learning](https://github.com/Code-Abbey/image-classification-deep-learning-lab) | Binary car image classification with MLP, CNN, data augmentation, dropout, and batch normalization | Python · TensorFlow · Keras |
 | [Association Rules](https://github.com/Code-Abbey/Association-Rules) | Market basket analysis using Apriori association-rule mining | Python · Jupyter · Apriori |
-| [Decision Tree](https://github.com/Code-Abbey/Decision_Tree) | Decision tree classifier experiments from scratch and with scikit-learn | Python · scikit-learn · Jupyter |
 
 ---
 
