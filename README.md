@@ -13,7 +13,7 @@
 
 ---
 
-I build practical, user-focused software across mobile, web, and data science. Currently studying at Campus 02 in Austria while shipping Android apps, JavaScript projects, and ML experiments.
+I build practical, user-focused software across mobile, web, and data science. Currently studying at the University of Applied Sciences St Pölten in Austria
 
 ---
 
