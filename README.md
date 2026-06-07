@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abiodun (Abbey) 👋</h1>
 
 <p align="center">
-  <b>Software Developer &nbsp;·&nbsp; Android &nbsp;·&nbsp; Web &nbsp;·&nbsp; Machine Learning</b><br/>
+  <b>Software Developer &nbsp;·&nbsp; Human-Computer Interaction &nbsp;·&nbsp; Web &nbsp;·&nbsp; Machine Learning</b><br/>
   📍 St Pölten, Austria &nbsp;·&nbsp;
   <a href="https://code-abbey.github.io/my-portfolio/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://twitter.com/Code_Abbey">@Code_Abbey</a>
